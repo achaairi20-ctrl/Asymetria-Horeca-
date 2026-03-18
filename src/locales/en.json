@@ -1,0 +1,230 @@
+{
+  "nav": {
+    "method": "Method",
+    "specialization": "Specialization",
+    "offers": "Offers",
+    "results": "Results",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Strategic repositioning & digital growth for HORECA establishments",
+    "subtitle": "We transform neighborhood restaurants into structured, profitable local references.",
+    "cta1": "Request a diagnosis",
+    "cta2": "Discover our method"
+  },
+  "problem": {
+    "title": "The challenge facing HORECA establishments today",
+    "cards": {
+      "invisibility": {
+        "title": "Online invisibility",
+        "description": "Your establishment doesn't appear in relevant local searches. Potential customers can't find you."
+      },
+      "positioning": {
+        "title": "Unclear positioning",
+        "description": "Customers don't understand what differentiates you. Your offering lacks clarity and appeal."
+      },
+      "wordOfMouth": {
+        "title": "Dependence on word-of-mouth",
+        "description": "No predictable customer acquisition system. Your success depends on chance recommendations."
+      },
+      "competition": {
+        "title": "City center competition",
+        "description": "You're losing customers to better positioned, more visible, more structured establishments."
+      }
+    }
+  },
+  "specialty": {
+    "title": "We specialize in local HORECA repositioning",
+    "points": [
+      "Real demographic analysis of the neighborhood",
+      "Strategic micro-category definition",
+      "Structuring of offering and menu",
+      "Advanced Google Business optimization",
+      "90-day strategy with measurable KPIs",
+      "Growth in average spend and recurrence"
+    ],
+    "cta": "Discover our 3-phase method"
+  },
+  "brussels": {
+    "title": "Precise knowledge of the Brussels terrain",
+    "subtitle": "We don't work 'in Belgium'. We work neighborhood by neighborhood.",
+    "cards": {
+      "mapping": {
+        "title": "Fine reading of micro-neighborhoods",
+        "description": "Schaerbeek is not Ixelles. Laeken is not Chatelain. Each zone has its demographics, purchasing power, consumption culture."
+      },
+      "multilingual": {
+        "title": "Strategic trilingual strategy",
+        "description": "FR → dominant local clientele | NL → often under-addressed audience | EN → expats & captive international customers. We structure distinct entry points, not translations."
+      },
+      "traffic": {
+        "title": "Clean traffic that books",
+        "description": "We don't work on likes. We work on calls, Google Maps directions, reservations, occupancy rate."
+      }
+    }
+  },
+  "method": {
+    "title": "Our method in 3 phases",
+    "subtitle": "A structured process of repositioning and growth",
+    "phases": {
+      "1": {
+        "title": "Strategic diagnosis",
+        "items": [
+          "Demographic study of the neighborhood",
+          "Real competitive analysis",
+          "Micro-category definition",
+          "Clear differentiating positioning"
+        ]
+      },
+      "2": {
+        "title": "Structuring & visibility",
+        "items": [
+          "Optimized Google Business category",
+          "Coherent digital architecture",
+          "Aligned visual strategy",
+          "90-day content plan"
+        ]
+      },
+      "3": {
+        "title": "Activation & growth",
+        "items": [
+          "90-day activation plan",
+          "Seasonal strategy (Ramadan, communions...)",
+          "Local loyalty system",
+          "Dashboard with measurable KPIs"
+        ]
+      }
+    }
+  },
+  "whatWeDontDo": {
+    "title": "What we don't do",
+    "subtitle": "To be clear about our positioning",
+    "items": [
+      "Generic Instagram management",
+      "Advertising without strategy",
+      "Standardized showcase websites",
+      "Unrealistic promises"
+    ]
+  },
+  "pricing": {
+    "title": "Our offers",
+    "subtitle": "Transparency and measurable results",
+    "note": "Every project starts with a personalized diagnosis.",
+    "packs": {
+      "1": {
+        "name": "Diagnosis & Positioning",
+        "price": "€1,500",
+        "features": [
+          "Complete strategic audit",
+          "Demographic analysis of the neighborhood",
+          "USP definition",
+          "Optimized menu structure",
+          "90-day action plan"
+        ],
+        "cta": "Start with a diagnosis"
+      },
+      "2": {
+        "name": "Repositioning & Activation",
+        "price": "€2,800",
+        "badge": "Recommended",
+        "features": [
+          "Everything in Pack 1 included",
+          "Google Business optimization",
+          "Complete visual strategy",
+          "90-day content plan",
+          "Seasonal events calendar",
+          "Loyalty plan"
+        ],
+        "cta": "Reposition my establishment"
+      },
+      "3": {
+        "name": "Growth 6 months",
+        "price": "€950/month",
+        "subprice": "6-month commitment",
+        "features": [
+          "Monthly strategic follow-up",
+          "Continuous adjustments",
+          "KPI optimization",
+          "Seasonal activation",
+          "Average spend adjustment"
+        ],
+        "cta": "Start the accompaniment"
+      }
+    }
+  },
+  "storytelling": {
+    "title": "From invisibility to local reference",
+    "subtitle": "How we transform establishments",
+    "sections": {
+      "before": {
+        "title": "Before : A quality establishment, but invisible",
+        "description": "Excellent cuisine, authentic atmosphere, but no structured digital presence. The potential is there, but no one sees it."
+      },
+      "diagnostic": {
+        "title": "The diagnosis : Understanding the terrain",
+        "description": "In-depth analysis of the neighborhood, competition, seasonal opportunities. We identify growth levers specific to your location."
+      },
+      "repositioning": {
+        "title": "The repositioning : Creating visibility",
+        "description": "Google Business optimization, targeted content strategy, local activation. Your establishment becomes visible to the right people, at the right time."
+      },
+      "results": {
+        "title": "The results : Measurable growth",
+        "metrics": {
+          "visibility": "Google visibility",
+          "calls": "Google Maps calls",
+          "reservations": "Weekend reservations"
+        }
+      }
+    }
+  },
+  "whyAsimetria": {
+    "title": "Why Asimetria ?",
+    "subtitle": "What sets us apart",
+    "items": [
+      "Exclusive HORECA specialization",
+      "Fact-based approach",
+      "Structured 3-phase method",
+      "Long-term vision, not quick-win",
+      "Brussels terrain knowledge",
+      "Advanced technical mastery"
+    ]
+  },
+  "contact": {
+    "title": "Let's start a conversation",
+    "subtitle": "Every project starts with a personalized diagnosis",
+    "form": {
+      "name": "Name",
+      "establishment": "Establishment",
+      "district": "District",
+      "revenue": "Estimated revenue",
+      "revenueOptions": {
+        "small": "Less than €500K",
+        "medium": "€500K - €1M",
+        "large": "More than €1M"
+      },
+      "objective": "Main objective",
+      "objectiveOptions": {
+        "visibility": "Increase my visibility",
+        "repositioning": "Reposition myself",
+        "growth": "Accelerate my growth",
+        "loyalty": "Strengthen customer loyalty"
+      },
+      "message": "Your message",
+      "submit": "Request a free diagnosis",
+      "success": "Thank you ! We will contact you within 24 hours."
+    },
+    "info": {
+      "email": "contact@asimetria-horeca.be",
+      "phone": "+32 2 000 00 00",
+      "address": "Brussels, Belgium"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Asimetria Horeca. All rights reserved.",
+    "legal": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Use"
+    }
+  }
+}

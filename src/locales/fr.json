@@ -1,0 +1,230 @@
+{
+  "nav": {
+    "method": "Méthode",
+    "specialization": "Spécialisation",
+    "offers": "Offres",
+    "results": "Résultats",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Repositionnement stratégique & croissance digitale pour établissements HORECA",
+    "subtitle": "Nous transformons les restaurants de quartier en références locales structurées et rentables.",
+    "cta1": "Demander un diagnostic",
+    "cta2": "Découvrir notre méthode"
+  },
+  "problem": {
+    "title": "Le défi des établissements HORECA aujourd'hui",
+    "cards": {
+      "invisibility": {
+        "title": "Invisibilité en ligne",
+        "description": "Votre établissement n'apparaît pas dans les recherches locales pertinentes. Les clients potentiels ne vous trouvent pas."
+      },
+      "positioning": {
+        "title": "Positionnement flou",
+        "description": "Les clients ne comprennent pas ce qui vous différencie. Votre offre manque de clarté et d'attrait."
+      },
+      "wordOfMouth": {
+        "title": "Dépendance au bouche-à-oreille",
+        "description": "Pas de système prévisible d'acquisition client. Votre succès dépend du hasard des recommandations."
+      },
+      "competition": {
+        "title": "Concurrence centre-ville",
+        "description": "Vous perdez des clients au profit d'établissements mieux positionnés, plus visibles, plus structurés."
+      }
+    }
+  },
+  "specialty": {
+    "title": "Nous sommes spécialisés dans le repositionnement local HORECA",
+    "points": [
+      "Analyse démographique réelle du quartier",
+      "Définition de micro-catégorie stratégique",
+      "Structuration de l'offre et de la carte",
+      "Optimisation avancée Google Business",
+      "Stratégie 90 jours avec KPIs mesurables",
+      "Croissance du panier moyen et de la récurrence"
+    ],
+    "cta": "Découvrir notre méthode en 3 phases"
+  },
+  "brussels": {
+    "title": "Une connaissance précise du terrain bruxellois",
+    "subtitle": "Nous ne travaillons pas 'en Belgique'. Nous travaillons quartier par quartier.",
+    "cards": {
+      "mapping": {
+        "title": "Lecture fine des micro-quartiers",
+        "description": "Schaerbeek n'est pas Ixelles. Laeken n'est pas Châtelain. Chaque zone a sa démographie, son pouvoir d'achat, sa culture de consommation."
+      },
+      "multilingual": {
+        "title": "Stratégie trilingue stratégique",
+        "description": "FR → clientèle locale dominante | NL → public souvent sous-adressé | EN → expats & internationaux captifs. Nous structurons des points d'entrée distincts, pas des traductions."
+      },
+      "traffic": {
+        "title": "Trafic propre qui réserve",
+        "description": "Nous ne travaillons pas sur les likes. Nous travaillons sur les appels, les itinéraires Google Maps, les réservations, le taux de remplissage."
+      }
+    }
+  },
+  "method": {
+    "title": "Notre méthode en 3 phases",
+    "subtitle": "Un processus structuré de repositionnement et de croissance",
+    "phases": {
+      "1": {
+        "title": "Diagnostic stratégique",
+        "items": [
+          "Étude démographique du quartier",
+          "Analyse concurrentielle réelle",
+          "Définition de la micro-catégorie",
+          "Positionnement différenciant clair"
+        ]
+      },
+      "2": {
+        "title": "Structuration & visibilité",
+        "items": [
+          "Catégorie Google Business optimisée",
+          "Architecture digitale cohérente",
+          "Stratégie visuelle alignée",
+          "Plan de contenu 90 jours"
+        ]
+      },
+      "3": {
+        "title": "Activation & croissance",
+        "items": [
+          "Plan d'activation 90 jours",
+          "Stratégie saisonnière (Ramadan, communions...)",
+          "Système de fidélisation locale",
+          "Tableau de bord KPIs mesurables"
+        ]
+      }
+    }
+  },
+  "whatWeDontDo": {
+    "title": "Ce que nous ne faisons pas",
+    "subtitle": "Pour être clairs sur notre positionnement",
+    "items": [
+      "Gestion Instagram générique",
+      "Publicité sans stratégie",
+      "Sites vitrines standardisés",
+      "Promesses irréalistes"
+    ]
+  },
+  "pricing": {
+    "title": "Nos offres",
+    "subtitle": "Transparence et résultats mesurables",
+    "note": "Chaque projet commence par un diagnostic personnalisé.",
+    "packs": {
+      "1": {
+        "name": "Diagnostic & Positionnement",
+        "price": "1 500€",
+        "features": [
+          "Audit stratégique complet",
+          "Analyse démographique du quartier",
+          "Définition de l'USP",
+          "Structure de carte optimisée",
+          "Plan d'action 90 jours"
+        ],
+        "cta": "Commencer par un diagnostic"
+      },
+      "2": {
+        "name": "Repositionnement & Activation",
+        "price": "2 800€",
+        "badge": "Recommandé",
+        "features": [
+          "Tout le Pack 1 inclus",
+          "Optimisation Google Business",
+          "Stratégie visuelle complète",
+          "Plan de contenu 90 jours",
+          "Calendrier événements saisonniers",
+          "Plan de fidélisation"
+        ],
+        "cta": "Repositionner mon établissement"
+      },
+      "3": {
+        "name": "Croissance 6 mois",
+        "price": "950€/mois",
+        "subprice": "Engagement 6 mois",
+        "features": [
+          "Suivi stratégique mensuel",
+          "Ajustements continus",
+          "Optimisation des KPIs",
+          "Activation saisonnière",
+          "Ajustement du panier moyen"
+        ],
+        "cta": "Démarrer l'accompagnement"
+      }
+    }
+  },
+  "storytelling": {
+    "title": "De l'invisibilité à la référence locale",
+    "subtitle": "Comment nous transformons les établissements",
+    "sections": {
+      "before": {
+        "title": "Avant : Un établissement de qualité, mais invisible",
+        "description": "Excellente cuisine, ambiance authentique, mais aucune présence digitale structurée. Le potentiel est là, mais personne ne le voit."
+      },
+      "diagnostic": {
+        "title": "Le diagnostic : Comprendre le terrain",
+        "description": "Analyse approfondie du quartier, de la concurrence, des opportunités saisonnières. On identifie les leviers de croissance spécifiques à votre localisation."
+      },
+      "repositioning": {
+        "title": "Le repositionnement : Créer la visibilité",
+        "description": "Optimisation Google Business, stratégie de contenu ciblée, activation locale. Votre établissement devient visible pour les bonnes personnes, au bon moment."
+      },
+      "results": {
+        "title": "Les résultats : Une croissance mesurable",
+        "metrics": {
+          "visibility": "Visibilité Google",
+          "calls": "Appels Google Maps",
+          "reservations": "Réservations week-end"
+        }
+      }
+    }
+  },
+  "whyAsimetria": {
+    "title": "Pourquoi Asimetria ?",
+    "subtitle": "Ce qui nous différencie",
+    "items": [
+      "Spécialisation exclusive HORECA",
+      "Approche basée sur données réelles",
+      "Méthode structurée en 3 phases",
+      "Vision long terme, pas quick-win",
+      "Connaissance terrain Bruxelles",
+      "Maîtrise technique avancée"
+    ]
+  },
+  "contact": {
+    "title": "Démarrons une conversation",
+    "subtitle": "Chaque projet commence par un diagnostic personnalisé",
+    "form": {
+      "name": "Nom",
+      "establishment": "Établissement",
+      "district": "Quartier",
+      "revenue": "Chiffre d'affaires estimé",
+      "revenueOptions": {
+        "small": "Moins de 500K€",
+        "medium": "500K€ - 1M€",
+        "large": "Plus de 1M€"
+      },
+      "objective": "Objectif principal",
+      "objectiveOptions": {
+        "visibility": "Augmenter ma visibilité",
+        "repositioning": "Me repositionner",
+        "growth": "Accélérer ma croissance",
+        "loyalty": "Fidéliser ma clientèle"
+      },
+      "message": "Votre message",
+      "submit": "Demander un diagnostic gratuit",
+      "success": "Merci ! Nous vous contacterons sous 24h."
+    },
+    "info": {
+      "email": "contact@asimetria-horeca.be",
+      "phone": "+32 2 000 00 00",
+      "address": "Bruxelles, Belgique"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Asimetria Horeca. Tous droits réservés.",
+    "legal": {
+      "privacy": "Politique de confidentialité",
+      "terms": "Conditions d'utilisation"
+    }
+  }
+}

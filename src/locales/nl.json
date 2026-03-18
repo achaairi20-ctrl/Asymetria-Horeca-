@@ -1,0 +1,230 @@
+{
+  "nav": {
+    "method": "Methode",
+    "specialization": "Specialisatie",
+    "offers": "Aanbiedingen",
+    "results": "Resultaten",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Strategische herpositionering & digitale groei voor HORECA-bedrijven",
+    "subtitle": "We transformeren buurtrestaurants in gestructureerde en winstgevende lokale referenties.",
+    "cta1": "Vraag een diagnose aan",
+    "cta2": "Ontdek onze methode"
+  },
+  "problem": {
+    "title": "De uitdaging voor HORECA-bedrijven vandaag",
+    "cards": {
+      "invisibility": {
+        "title": "Online onzichtbaarheid",
+        "description": "Uw vestiging verschijnt niet in relevante lokale zoekopdrachten. Potentiële klanten vinden u niet."
+      },
+      "positioning": {
+        "title": "Vage positionering",
+        "description": "Klanten begrijpen niet wat u onderscheidt. Uw aanbod mist duidelijkheid en aantrekkingskracht."
+      },
+      "wordOfMouth": {
+        "title": "Afhankelijkheid van mond-tot-mondreclame",
+        "description": "Geen voorspelbaar systeem voor klantenacquisitie. Uw succes hangt af van toevallige aanbevelingen."
+      },
+      "competition": {
+        "title": "Concurrentie stadscentrum",
+        "description": "U verliest klanten aan beter gepositioneerde, zichtbaardere, gestructureerdere vestigingen."
+      }
+    }
+  },
+  "specialty": {
+    "title": "Wij zijn gespecialiseerd in lokale HORECA-herpositionering",
+    "points": [
+      "Echte demografische analyse van de buurt",
+      "Definitie van strategische micro-categorie",
+      "Structurering van aanbod en menu",
+      "Geavanceerde Google Business-optimalisatie",
+      "90-dagen strategie met meetbare KPI's",
+      "Groei van gemiddelde besteding en herhaalaankopen"
+    ],
+    "cta": "Ontdek onze methode in 3 fasen"
+  },
+  "brussels": {
+    "title": "Gedetailleerde kennis van het Brusselse terrein",
+    "subtitle": "We werken niet 'in België'. We werken wijk per wijk.",
+    "cards": {
+      "mapping": {
+        "title": "Fijnmazige lezing van micro-wijken",
+        "description": "Schaarbeek is niet Elsene. Laken is niet Chatelain. Elke zone heeft zijn demografie, koopkracht, consumptiecultuur."
+      },
+      "multilingual": {
+        "title": "Strategische drietalige strategie",
+        "description": "FR → dominante lokale klantenkring | NL → vaak onderbenut publiek | EN → expats & internationale klanten. We structureren aparte toegangspunten, geen vertalingen."
+      },
+      "traffic": {
+        "title": "Schoon verkeer dat reserveert",
+        "description": "We werken niet aan likes. We werken aan oproepen, Google Maps-routebeschrijvingen, reserveringen, bezettingsgraad."
+      }
+    }
+  },
+  "method": {
+    "title": "Onze methode in 3 fasen",
+    "subtitle": "Een gestructureerd proces van herpositionering en groei",
+    "phases": {
+      "1": {
+        "title": "Strategische diagnose",
+        "items": [
+          "Demografische studie van de buurt",
+          "Echte concurrentieanalyse",
+          "Definitie van micro-categorie",
+          "Duidelijk onderscheidend positionering"
+        ]
+      },
+      "2": {
+        "title": "Structurering & zichtbaarheid",
+        "items": [
+          "Geoptimaliseerde Google Business-categorie",
+          "Coherente digitale architectuur",
+          "Afgestemde visuele strategie",
+          "90-dagen contentplan"
+        ]
+      },
+      "3": {
+        "title": "Activering & groei",
+        "items": [
+          "90-dagen activeringsplan",
+          "Seizoensstrategie (Ramadan, communies...)",
+          "Lokaal loyaliteitssysteem",
+          "Dashboard met meetbare KPI's"
+        ]
+      }
+    }
+  },
+  "whatWeDontDo": {
+    "title": "Wat we niet doen",
+    "subtitle": "Om duidelijk te zijn over onze positionering",
+    "items": [
+      "Generiek Instagram-beheer",
+      "Reclame zonder strategie",
+      "Gestandaardiseerde showcase-websites",
+      "Onrealistische beloften"
+    ]
+  },
+  "pricing": {
+    "title": "Onze aanbiedingen",
+    "subtitle": "Transparantie en meetbare resultaten",
+    "note": "Elk project begint met een gepersonaliseerde diagnose.",
+    "packs": {
+      "1": {
+        "name": "Diagnose & Positionering",
+        "price": "1 500€",
+        "features": [
+          "Volledige strategische audit",
+          "Demografische analyse van de buurt",
+          "Definitie van USP",
+          "Geoptimaliseerde menu-structuur",
+          "90-dagen actieplan"
+        ],
+        "cta": "Begin met een diagnose"
+      },
+      "2": {
+        "name": "Herpositionering & Activering",
+        "price": "2 800€",
+        "badge": "Aanbevolen",
+        "features": [
+          "Alles van Pack 1 inbegrepen",
+          "Google Business-optimalisatie",
+          "Volledige visuele strategie",
+          "90-dagen contentplan",
+          "Seizoensgebonden evenementenkalender",
+          "Loyaliteitsplan"
+        ],
+        "cta": "Herpositioneer mijn vestiging"
+      },
+      "3": {
+        "name": "Groei 6 maanden",
+        "price": "950€/maand",
+        "subprice": "Engagement 6 maanden",
+        "features": [
+          "Maandelijks strategisch vervolg",
+          "Continue aanpassingen",
+          "KPI-optimalisatie",
+          "Seizoensactivering",
+          "Aanpassing gemiddelde besteding"
+        ],
+        "cta": "Start de begeleiding"
+      }
+    }
+  },
+  "storytelling": {
+    "title": "Van onzichtbaarheid naar lokale referentie",
+    "subtitle": "Hoe we vestigingen transformeren",
+    "sections": {
+      "before": {
+        "title": "Voor : Een kwaliteitsvestiging, maar onzichtbaar",
+        "description": "Uitstekende keuken, authentieke sfeer, maar geen gestructureerde digitale aanwezigheid. Het potentieel is er, maar niemand ziet het."
+      },
+      "diagnostic": {
+        "title": "De diagnose : Het terrein begrijpen",
+        "description": "Diepgaande analyse van de buurt, concurrentie, seizoensgebonden kansen. We identificeren groeihefbomen specifiek voor uw locatie."
+      },
+      "repositioning": {
+        "title": "De herpositionering : Zichtbaarheid creëren",
+        "description": "Google Business-optimalisatie, gerichte contentstrategie, lokale activering. Uw vestiging wordt zichtbaar voor de juiste mensen, op het juiste moment."
+      },
+      "results": {
+        "title": "De resultaten : Meetbare groei",
+        "metrics": {
+          "visibility": "Google-zichtbaarheid",
+          "calls": "Google Maps-oproepen",
+          "reservations": "Weekendreserveringen"
+        }
+      }
+    }
+  },
+  "whyAsimetria": {
+    "title": "Waarom Asimetria ?",
+    "subtitle": "Wat ons onderscheidt",
+    "items": [
+      "Exclusieve HORECA-specialisatie",
+      "Op feitelijke gegevens gebaseerde aanpak",
+      "Gestructureerde methode in 3 fasen",
+      "Langetermijnvisie, geen quick-win",
+      "Kennis van Brusselse terrein",
+      "Geavanceerde technische beheersing"
+    ]
+  },
+  "contact": {
+    "title": "Laten we een gesprek starten",
+    "subtitle": "Elk project begint met een gepersonaliseerde diagnose",
+    "form": {
+      "name": "Naam",
+      "establishment": "Vestiging",
+      "district": "Wijk",
+      "revenue": "Geschatte omzet",
+      "revenueOptions": {
+        "small": "Minder dan 500K€",
+        "medium": "500K€ - 1M€",
+        "large": "Meer dan 1M€"
+      },
+      "objective": "Hoofddoel",
+      "objectiveOptions": {
+        "visibility": "Mijn zichtbaarheid vergroten",
+        "repositioning": "Mij herpositioneren",
+        "growth": "Mijn groei versnellen",
+        "loyalty": "Mijn klantenbinding versterken"
+      },
+      "message": "Uw bericht",
+      "submit": "Vraag een gratis diagnose aan",
+      "success": "Bedankt ! We nemen binnen 24 uur contact met u op."
+    },
+    "info": {
+      "email": "contact@asimetria-horeca.be",
+      "phone": "+32 2 000 00 00",
+      "address": "Brussel, België"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 Asimetria Horeca. Alle rechten voorbehouden.",
+    "legal": {
+      "privacy": "Privacybeleid",
+      "terms": "Gebruiksvoorwaarden"
+    }
+  }
+}
